@@ -61,8 +61,9 @@ This project allows teachers to create classrooms, add students, and efficiently
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ManoharKumar07/Smart-Attendance-System.git
-   cd Smart-Attendance-System
+   git clone https://github.com/shreya395/Camlog.git 
+   Camlog.git
+   cd camlog
    ```
 
 2. **Backend Setup (Express.js)**:
