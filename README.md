@@ -1,4 +1,4 @@
-# **Smart Attendance System using Face Recognition**
+# **Attendance System using Face Recognition**
 
 ## **Overview**
 
